@@ -1,0 +1,6 @@
+data_root: '/path/to/interior/images'
+train_json: '/path/to/interior/train.json'
+batch_size: 8
+lr: 2e-5
+epochs: 30
+meta_prior_dim: 768
