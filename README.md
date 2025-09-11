@@ -35,7 +35,7 @@ To evaluate the effectiveness of DiffDesign, quantitative experiments are divide
     - HM3D [[DATA]](https://arxiv.org/abs/2109.08238)
     - Zillow Indoor Dataset [[DATA]](https://arxiv.org/abs/2109.04916)
   
-  Some DesignHelper data is available in this repository. For own dataset construction, you can refer to the scripts in `dataset_gathering/` and follow the instructions to collect and preprocess images and metadata from the above sources. 
+  Some DesignHelper data is available in this repository. For own dataset construction, you can refer to the scripts in `dataset_gathering/` and follow the instructions to collect and preprocess images and metadata from the above sources. Due to file size limitations, all data will be provided as links to the hugging face repository. 
 
 ## Training
 
